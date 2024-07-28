@@ -4,6 +4,7 @@ API desenvolvida no curso de spring rest para iniciantes da AlgasWorks, visando 
 ## FUNCIONALIDADES
 - CRUD Cliente, Ordem de Servico e comentario;
 - busca por id_cliente 
-- busca por email 
+- busca por email
+- Uso do flyway para gerenciamento de versões da base de dados.
 
  
